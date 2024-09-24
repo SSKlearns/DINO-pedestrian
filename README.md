@@ -1,7 +1,7 @@
 # Fine-tuning DINO Model for Pedestrian Detection
 
 ## Project Overview
-This project involves fine-tuning the DINO (Detection Transformer with Improved Non-Autoregressive Optimization) model for pedestrian detection using a dataset featuring individuals walking around the IIT Delhi campus. The model was trained and evaluated using various cloud platforms due to the large computational resource requirements.
+This project involves fine-tuning the DINO model for pedestrian detection using a dataset featuring individuals walking around the IIT Delhi campus. The model was trained and evaluated using various cloud platforms due to the large computational resource requirements.
 
 ## Experiments and Approach
 ### 1. Dataset Preparation
