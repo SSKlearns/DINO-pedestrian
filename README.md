@@ -39,3 +39,7 @@ This project involves fine-tuning the DINO model for pedestrian detection using 
 | AP     | 0.326                 | 0.648            | 0.283            |
 
 The fine-tuned model showed a performance decrease compared to the pre-trained model but achieved satisfactory results considering the computational constraints.
+
+### Below is an inference for one of the images on the fine-tuned model
+
+![image info](./assets/fine-tuned.png)
